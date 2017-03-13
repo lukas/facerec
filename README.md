@@ -9,7 +9,7 @@ Runs a server that listens to commands from lambda server
 - lambda.py 
 Code for a lambda function that talks to alexa_server
 
-- add-face.shca
+- add-face.sh
 Shell script to add a face for detection later
 
 - detect-faces.sh
