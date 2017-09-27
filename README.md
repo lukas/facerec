@@ -2,7 +2,7 @@
 
 Code to setup a simple alexa powered, face recognizing system.
 
-##Files 
+## Files 
 - alexa_server.py
 Runs a server that listens to commands from lambda server
 
